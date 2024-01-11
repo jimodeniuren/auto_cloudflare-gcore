@@ -1,0 +1,2 @@
+# auto_cloudflare-gcore
+全自动优选cloudflare和gcore并写入订阅
